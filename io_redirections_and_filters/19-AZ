@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Ac" | tr -d 'Ze'
+echo "Ac" | tr 'Ac' 'Ze'
