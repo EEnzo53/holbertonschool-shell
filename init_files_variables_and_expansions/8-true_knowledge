@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $TRUEKNOWLEDGE | echo (($ + 128)) | printf "$\n"
+export TRUEKNOWLEDGE=0 | echo $(($ + 128)) | printf "$\n"
