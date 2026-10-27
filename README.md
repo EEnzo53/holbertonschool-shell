@@ -23,6 +23,6 @@ ls -l (list all subdir and subfile) ls -la (list all subdir, subfile and even th
 *many possibilities of use
 rm -f (Force the file to be deleted without confirmation)
 
-- **mkdir** (make directory) bah make directory :|
+- **mkdir** (make directory) bah make directory : |
 - **rmdir** (remove directory) Delete directory
 - touch: create a file
