@@ -25,3 +25,4 @@ rm -f (Force the file to be deleted without confirmation)
 
 - **mkdir** (make directory) bah make directory :|
 - **rmdir** (remove directory) Delete directory
+- touch: create a file
